@@ -1,0 +1,51 @@
+h1{
+   color: rgb(211, 93, 46);
+   text-align: center;
+}
+body{
+   background-color: #fefbd8;
+}
+p{
+   font-size: 19px;
+   text-align: justify;
+}
+.lista{
+   font-size: 20px;
+   margin: 20px;
+}
+.imagem{
+   height: auto;
+   width: 500px;
+   border-radius: 6%;
+}
+table{
+   background-color: rgba(166, 165, 167, 0.301);
+
+
+}
+.estados{
+   background-color: rgba(31, 204, 216, 0.274);
+
+}
+th{
+   background-color: rgb(28, 219, 187);
+}
+a:hover {
+color: rgb(255, 2, 2);
+}
+#pa{
+   color: rgb(0, 25, 248);
+   font-size: 20px;
+   margin: 6px;
+  font-weight: bold;
+}
+button{
+   color: rgb(0, 0, 0);
+   font-weight:bold;
+   background-color: rgb(62, 158, 24);
+
+}
+button:hover{
+   background-color: rgba(70, 145, 26, 0.781);
+
+}
